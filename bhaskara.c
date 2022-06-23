@@ -3,7 +3,8 @@
 int main (void){
     float a, b, c, D, x1, x2;
 
-    printf("***Bhaskara - Programa que calcula as raízes da equação de segundo grau***\n\nInforme o coeficiente a:\n");
+    printf("***Bhaskara - Programa que calcula as raízes da equação de segundo grau***\n\n");
+    printf("Informe o coeficiente a:\n");
     scanf("%f", &a);
     printf("Informe o coeficiente b:\n");
     scanf("%f", &b);
